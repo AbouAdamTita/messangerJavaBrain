@@ -1,3 +1,9 @@
 salaom je suis a la maison pour la semaine
+<<<<<<< HEAD
  merci les amis
 je serai de retour le mois prochain exactement
+=======
+ merc
+
+modification fait par addWs le 13-03-2018
+>>>>>>> addWS
